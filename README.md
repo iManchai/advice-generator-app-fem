@@ -24,7 +24,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github repository](https://github.com/iManchai/advice-generator-app-fem)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://stupendous-ganache-8b29b6.netlify.app/)
 
 ## My process
 
