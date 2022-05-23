@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.attribution { 
+    font-size: 11px; 
+    text-align: center; }
+    
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
+
+.shadow-button:hover {
+    box-shadow: 0 0 35px 0 hsl(150, 100%, 60%);
+}
